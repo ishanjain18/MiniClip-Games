@@ -32,10 +32,12 @@ for link in links.find_all('img'):
 	i+=1
 
 for game in games:
+	print('Requesting Game: ' + game, end='')
+	r = requests.get(games[game]['link'], 'wb')
+	open(f'{game}.exe', 'wb').write(r.content)
+	print(' - Done')
+	
 
-	print(games[game]['link'])
-
-with open(f"{game}.exe", 'wb')
 
 # print(games)
 

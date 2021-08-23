@@ -3,7 +3,7 @@ import os
 from bs4 import BeautifulSoup
 
 url = 'https://www.miniclip.com/games/page/en/downloadable-games/#privacy-settings'
-download_url = 'https://www.miniclip.com/downloadable-games/download.php?n=3-foot-ninja'
+# download_url = 'https://www.miniclip.com/downloadable-games/download.php?n=3-foot-ninja'
 print('Sending Request to URL')
 html = requests.get(url)
 

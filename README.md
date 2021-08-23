@@ -1,6 +1,6 @@
 # MiniClip-Games 🎮🌏
 
-- A Python Program to automatically download a library of 77 games from www.miniclip.com. The program runs for a duration of roughly 2-3 minutes.
+- A Python Program that automatically downloads a library of 77 games from www.miniclip.com. The program runs for a duration of roughly 2-3 minutes.
 
 ## Requirements
 - None, except a stable Internet Connection.

@@ -9,7 +9,7 @@
 - Clone/Download Repository.
 - Run prog.exe.
 
-Alternatively, run prog.py on a computer with the latest version of python3 installed along with other dependencies mentioned in the next section.
+Alternatively, run prog.py on a computer with the latest version of python3 installed along with other dependencies mentioned in the next section. (Again, this is optional.)
 
 # How it was created
 The program uses

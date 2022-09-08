@@ -1,4 +1,6 @@
-# [Non-functioning/Unserviceable since 2022]MiniClip-Games 🎮🌏
+# [Non-functioning/Unserviceable since 2022]
+
+# MiniClip-Games 🎮🌏
 
 - A Python Program that automatically downloads a library of 77 games from www.miniclip.com. The program runs for a duration of roughly 2-3 minutes.
 
